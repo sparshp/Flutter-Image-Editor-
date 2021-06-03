@@ -3,13 +3,6 @@
 <div align="center">This is a beautiful open-source image-editing app for Android/iOS. It is built with Dart on top of Google's Flutter Framework.
 
 
-![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
-![License](https://img.shields.io/github/license/codenameakshay/image-editor)
-![Size](https://img.shields.io/github/repo-size/codenameakshay/image-editor?color=green)
-![Stars](https://img.shields.io/github/stars/codenameakshay/image-editor)
-
-
 </div>
 <a><img alt='Prism UI Mockup' src='demo/ImageMockup.png'/></a>
 
